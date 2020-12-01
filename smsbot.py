@@ -9,7 +9,7 @@ from termcolor import colored
 
 print(colored( '''
 
-@Termux@
+@Termux@  v1.0v
 
 		  
 		''','magenta'))
